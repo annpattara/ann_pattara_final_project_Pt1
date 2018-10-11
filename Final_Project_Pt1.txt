@@ -1,0 +1,26 @@
+Dataset: 
+Loan Data, because I reviewed the data set and it is aligned with my interests. In fact my client(Union Bank) made a strategic alliance with Lending Club in the recent past(in around 2014) to purchase personal loans through the Lending Club platform, and to create new credit products to be made available to both companies’ customer base. I am looking forward to work on this data set and potentially share my analysis (if accurate and reliable) with a larger audience at work. Since the data is from 2007-2015, it would help in conducting a look back.
+
+Background : 
+One of the major problems that peer-to-peer(P2P) lending platforms face today is the issue of delinquency. Although P2P is a profitable business, the odds of the occassional deliquency makes this business highly risky and potentially unattractive to investors.
+
+Problem Statement : 
+Can we use historical data of all loans(Lending Club) that have been disbursed by P2P lending platforms in order to identify patterns of delinquency amongst these loans so as to enable future investors with an accurate model that will aid them in being more cautious about who they offer credit to.
+
+Hypothesis : 
+Using historical data of all loans(Lending Club) disbursed including a wide range variables (age, region, occupation, salary, current debt level, reason for loan, background, education, other debts, assets, living situation, social class etc) to build a predictive model to predict if future loans will be delinquent or not.
+
+Assumptions : 
+1. The dataset is accurate
+2. All the datapoints are available and if not, appropriate measures can be taken to include the missing values
+3. The dataset is comprehensive in avoid any bias and reflect the population as much as possible
+
+Goal : 
+Use the data to predict if a loan, once disbursed, will be delingquent or not by building a binary classification model.
+
+Success Metrics : 
+1. Accurracy
+2. Precision
+3. Recall
+
+
